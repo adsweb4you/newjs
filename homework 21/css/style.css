@@ -1,0 +1,6 @@
+img{
+    max-width: 100%;
+}
+ul li:last-child {
+    color: white !important;
+}
